@@ -1,9 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://www.ravenremodeling.org/</loc>
-    <lastmod>2026-11-17</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.ravenremodeling.org/assets/portland-master-bathroom-tile-remodel-tub.jpg</image:loc>
+      <image:title>Portland Master Bathroom &amp; Porcelain Tile Remodel — Raven Remodeling LLC</image:title>
+      <image:caption>Completed master bathroom remodel with large-format porcelain tile, freestanding soaking tub, and double vanity in Greater Portland, OR.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.ravenremodeling.org/assets/portland-custom-tile-walk-in-shower-gold.jpg</image:loc>
+      <image:title>Custom Walk-In Tile Shower Installation in Greater Portland — Raven Remodeling LLC</image:title>
+      <image:caption>Dual-head walk-in tile shower with vertical stacked tile, mosaic shower floor, recessed niche, and brushed gold fixtures.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.ravenremodeling.org/assets/portland-subway-tile-shower-mosaic-floor.jpg</image:loc>
+      <image:title>Subway Tile Walk-In Shower &amp; Mosaic Bathroom Floor in Portland Area</image:title>
+      <image:caption>White subway tile shower with dark grout, matte black hardware, and black-and-white octagon mosaic tile bathroom floor.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.ravenremodeling.org/assets/portland-green-vertical-tile-tub-surround.jpg</image:loc>
+      <image:title>Emerald Green Vertical Tile Tub Surround in Greater Portland</image:title>
+      <image:caption>Custom vertical stacked green glazed tile tub and shower surround with recessed tile niche and brass fixtures.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.ravenremodeling.org/assets/portland-bathroom-double-vanity-remodel.jpg</image:loc>
+      <image:title>Portland Bathroom Double Vanity &amp; Quartz Countertop Remodel</image:title>
+      <image:caption>Double bathroom vanity with wood cabinetry, quartz counters, brushed brass faucets, and oval mirrors.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.ravenremodeling.org/assets/portland-kitchen-remodel-custom-millwork.jpg</image:loc>
+      <image:title>Greater Portland Kitchen Remodel &amp; Custom Coffered Ceiling Millwork</image:title>
+      <image:caption>Custom kitchen remodel featuring coffered ceiling millwork, white cabinetry, stone island, and hardwood flooring.</image:caption>
+    </image:image>
   </url>
 </urlset>
